@@ -1,0 +1,14 @@
+Con người: Khách hàng, nhà hàng, người giao hàng, nhân viên quản trị
+
+
+Dữ liệu: thông tin người đặt(tên, địa chỉ, liên lạc,..) , thông tin sản phẩm được đặt,
+lịch sử đặt hàng,..
+
+
+Quy trình: người dùng chọn món - điền thông tin - xác nhận đặt món - tài xế và nahf hàng nhận đơn và chuẩn bị - tài xế giao hàng đến tay người dùng - thực hiện giao dịch - cập nhật lịch sử hệ thống
+
+
+Phần mềm: ứng dụng đặt hàng cho khách, hệ thống quản lí đơn hàng cho tài xế, bảng điều khiển toàn hệ thống của admin
+
+
+Phần cứng: Máy chủ lưu trữ dữ liệu, thiết bị di động của khách hàng, nhà hàng và tài xế, thiết bị mạng, và máy tính của quản trị viên.

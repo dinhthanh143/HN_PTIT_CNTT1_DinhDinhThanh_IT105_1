@@ -1,0 +1,8 @@
+ A: mô hình Waterfall
+Lý do: Yêu cầu đã xác định rõ ràng, ít thay đổi; mô hình thác nước phù hợp cho dự án nhỏ, quy trình tuần tự, dễ quản lý và kiểm soát tiến độ.
+
+ B:  Mô hình Agile
+➡ Lý do: Yêu cầu thay đổi thường xuyên; Agile cho phép phản hồi nhanh, cập nhật liên tục, phù hợp với các dự án cần linh hoạt và có sự tương tác cao với khách hàng.
+
+C: Mô hình Spiral
+➡ Lý do: Spiral chú trọng phân tích rủi ro và kiểm thử theo vòng lặp, rất phù hợp cho dự án lớn, phức tạp, yêu cầu bảo mật và độ an toàn cao.

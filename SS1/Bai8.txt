@@ -1,0 +1,21 @@
+1. Các tác nhân và chức năng tương ứng:
+Trong hệ thống có ba tác nhân chính:
+
+Học viên: có thể đăng ký tài khoản, tham gia khóa học, làm bài kiểm tra và xem điểm của mình.
+
+Giảng viên: có thể tạo và quản lý các bài học, bài kiểm tra, nhập điểm và theo dõi tiến độ học viên.
+
+Admin: quản lý toàn bộ hệ thống, phân quyền người dùng, xem báo cáo và thống kê kết quả học tập.
+
+2. Phân loại hệ thống thông tin:
+Hệ thống này thuộc nhiều loại kết hợp. Phần xử lý đăng ký, cập nhật điểm, thêm bài học là TPS (Transaction Processing System) vì đây là những giao dịch lặp lại hằng ngày.
+Phần tổng hợp, báo cáo cho quản lý trung tâm thuộc MIS (Management Information System), vì nó cung cấp thông tin để ra quyết định quản trị.
+Ngoài ra, phần phân tích dữ liệu học tập, xu hướng và hiệu quả khóa học thuộc DSS (Decision Support System), hỗ trợ lãnh đạo trong việc ra quyết định mở lớp mới hoặc cải thiện chương trình giảng dạy.
+
+3. Mô hình phát triển phần mềm đề xuất:
+Mô hình phù hợp nhất là Agile. Lý do là vì yêu cầu của trung tâm ngoại ngữ thường thay đổi trong quá trình phát triển, chẳng hạn thêm chức năng mới hoặc điều chỉnh giao diện học trực tuyến. Agile cho phép làm việc linh hoạt, chia nhỏ dự án thành các giai đoạn ngắn (sprint), cập nhật và kiểm tra liên tục để đáp ứng phản hồi của người dùng nhanh chóng.
+
+4. Ba sơ đồ UML sử dụng khi thiết kế hệ thống:
+Class diagram
+Use case diagram
+Sequence diagram

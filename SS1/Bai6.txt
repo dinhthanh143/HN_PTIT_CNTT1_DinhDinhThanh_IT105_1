@@ -1,0 +1,17 @@
+A. Mô tả chức năng người dùng có thể thực hiện trên ứng dụng học tiếng Anh
+=> Use Case
+
+
+B. Mô tả lớp NguoiDung, KhoaHoc, BaiHoc và quan hệ giữa chúng
+=> Class
+
+C. Mô tả luồng học viên bắt đầu → vào học → làm bài → hoàn thành
+=> Activityb ( sơ đồ hoạt động)
+
+
+D. Mô tả cách hệ thống triển khai trên các máy chủ, thiết bị
+=> Deployment
+( sơ đồ Triển khai)
+
+E. Mô tả thứ tự tương tác giữa học viên và hệ thống khi nộp bài
+=> Sequence

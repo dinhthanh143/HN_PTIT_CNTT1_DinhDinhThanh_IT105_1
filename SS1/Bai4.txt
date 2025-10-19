@@ -1,0 +1,17 @@
+Planning: Xác định mục tiêu của ứng dụng, phạm vi dự án, đối tượng sử dụng (giảng viên, sinh viên, quản trị viên), lập kế hoạch thời gian và nguồn lực thực hiện.
+
+
+Analysis: Thu thập và phân tích yêu cầu: giảng viên cần điểm danh theo lớp, sinh viên xem lịch học và trạng thái điểm danh, hệ thống xuất báo cáo thống kê.
+
+
+Design: Thiết kế giao diện người dùng, sơ đồ cơ sở dữ liệu (bảng sinh viên, lớp học, buổi học, điểm danh), luồng hoạt động và cấu trúc hệ thống.
+
+
+Implementation:
+Lập trình các chức năng: đăng nhập, điểm danh (thủ công hoặc quét mã QR), hiển thị danh sách lớp, thống kê, và lưu dữ liệu vào cơ sở dữ liệu.
+
+
+Testing : Kiểm thử, phát hiện và sửa lỗi kịp thời đảm bảo hệ thông hoạt động ổn định
+
+
+Deployment & Maintenance: Triển khai ứng dụng lên máy chủ hoặc thiết bị di động; theo dõi hiệu suất, cập nhật tính năng mới và sửa lỗi khi có phản hồi từ người dùng.

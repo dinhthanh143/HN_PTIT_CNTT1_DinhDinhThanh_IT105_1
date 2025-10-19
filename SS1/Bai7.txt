@@ -1,0 +1,56 @@
+1. Planning (Lập kế hoạch)
+Mục tiêu: Xây dựng hệ thống giúp người dân đăng ký tiêm online, trung tâm dễ quản lý và theo dõi tiến độ tiêm.
+
+Công việc:
+Xác định phạm vi: đăng ký, xác nhận, xếp lịch, thống kê.
+Lập kế hoạch nhân sự: trưởng nhóm, lập trình viên, tester, UI/UX designer.
+Ước tính thời gian, chi phí, rủi ro và công nghệ (web/mobile, cơ sở dữ liệu trung tâm).
+
+📋 2. Requirement Analysis (Phân tích yêu cầu)
+
+-hu thập yêu cầu: phỏng vấn cán bộ y tế, người dân, bộ phận quản lý.
+
+-Yêu cầu chức năng:
+Người dân: đăng ký thông tin cá nhân, chọn mũi tiêm, nhận lịch hẹn.
+Trung tâm: xác nhận, sắp lịch tiêm, cập nhật tình trạng tiêm.
+Quản trị viên: thống kê số lượng đã tiêm/chưa tiêm, xuất báo cáo.
+-Yêu cầu phi chức năng: bảo mật dữ liệu cá nhân, hệ thống ổn định, giao diện dễ sử dụng.
+-Sản phẩm đầu ra: Tài liệu đặc tả yêu cầu (SRS).
+
+🧠 3. System Design (Thiết kế hệ thống)
+Thiết kế kiến trúc hệ thống: chia thành client (web/app), server (API), và database.
+Thiết kế dữ liệu: bảng NgườiDân, LịchTiêm, PhiếuĐăngKý, TrungTâm.
+
+Thiết kế UML:
+Use Case Diagram – mô tả các chức năng chính.
+Class Diagram – mô tả quan hệ giữa các lớp dữ liệu.
+Sequence Diagram – mô tả quá trình đăng ký và xác nhận tiêm.
+Thiết kế giao diện người dùng: trang đăng ký, xác nhận, danh sách tiêm.
+
+💻 4. Implementation (Triển khai mã nguồn)
+
+Công việc:
+
+Lập trình frontend (giao diện web/app).
+Lập trình backend (API xác nhận, lưu dữ liệu, xử lý logic).
+Tích hợp cơ sở dữ liệu và hệ thống xác thực người dùng.
+Kết quả: sản phẩm phần mềm hoạt động được bản đầu (prototype).
+
+🧪 5. Testing (Kiểm thử)
+
+Công việc:
+Kiểm thử chức năng (đăng ký, xác nhận, thống kê).
+Kiểm thử bảo mật (mã hóa thông tin cá nhân).
+Kiểm thử hiệu năng (số lượng người dùng truy cập lớn).
+Kiểm thử giao diện và trải nghiệm người dùng.
+Mục tiêu: đảm bảo hệ thống ổn định, không lỗi và đúng yêu cầu.
+
+🚀 6. Deployment & Maintenance (Triển khai và bảo trì)
+
+Triển khai:
+Cài đặt hệ thống lên máy chủ chính thức.
+Đào tạo nhân viên y tế sử dụng
+
+Bảo trì:
+Cập nhật phiên bản, sửa lỗi, nâng cấp tính năng (ví dụ: thêm chức năng nhắc lịch tiêm).
+Giám sát hoạt động hệ thống và sao lưu định kỳ.
